@@ -15,3 +15,5 @@ npm run dev
 
 extentions:
 prettier
+
+formate on save
